@@ -117,19 +117,12 @@ in **Code::Blocks**.
 
 ### 🏥 Main Menu
 
-![Main Menu](screenshots/main-menu.png)
+![Main Menu](Hospital-System1.png)
 
-### 👤 Patient Registration
 
-![Patient Registration](screenshots/patient-registration.png)
+### 📋 Patient Record and Search using SkipList
 
-### 🚨 Emergency Patient Handling
-
-![Emergency Patient Handling](screenshots/emergency-patient.png)
-
-### 📋 Patient Records
-
-![Patient Records](screenshots/patient-records.png)
+![Patient Records](Hospital-System2.png)
 
 ---
 
@@ -144,6 +137,6 @@ in **Code::Blocks**.
 
 ## 👩‍💻 Author
 
-**Data Structures Project**
+**Sabeena Karam**
 Developed using **C++**
 
