@@ -91,28 +91,6 @@ Used for storing and searching patient records.
 
 ---
 
-## ▶️ How to Run
-
-### Using Code::Blocks
-
-1. Clone this repository:
-
-```bash
-git clone <repository-link>
-```
-
-2. Open the project file:
-
-```
-Lab_Project.cbp
-```
-
-in **Code::Blocks**.
-
-3. Build and run the project.
-
----
-
 ## 📸 Screenshots
 
 ### 🏥 Main Menu
