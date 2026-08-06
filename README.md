@@ -116,5 +116,4 @@ Used for storing and searching patient records.
 ## 👩‍💻 Author
 
 **Sabeena Karam**
-Developed using **C++**
 
