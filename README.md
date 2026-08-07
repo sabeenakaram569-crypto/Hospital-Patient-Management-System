@@ -115,5 +115,6 @@ Used for storing and searching patient records.
 
 ## 👩‍💻 Author
 
-**Sabeena Karam**
-
+- **Sabeena Karam**
+- **Muhammad Qasim**
+- **Muhammad Abdul Moiz**
